@@ -1,0 +1,14 @@
+/Users/andressamachado/Desktop/learningC#/biblioteca/bin/Debug/net8.0/biblioteca
+/Users/andressamachado/Desktop/learningC#/biblioteca/bin/Debug/net8.0/biblioteca.deps.json
+/Users/andressamachado/Desktop/learningC#/biblioteca/bin/Debug/net8.0/biblioteca.runtimeconfig.json
+/Users/andressamachado/Desktop/learningC#/biblioteca/bin/Debug/net8.0/biblioteca.dll
+/Users/andressamachado/Desktop/learningC#/biblioteca/bin/Debug/net8.0/biblioteca.pdb
+/Users/andressamachado/Desktop/learningC#/biblioteca/obj/Debug/net8.0/biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andressamachado/Desktop/learningC#/biblioteca/obj/Debug/net8.0/biblioteca.AssemblyInfoInputs.cache
+/Users/andressamachado/Desktop/learningC#/biblioteca/obj/Debug/net8.0/biblioteca.AssemblyInfo.cs
+/Users/andressamachado/Desktop/learningC#/biblioteca/obj/Debug/net8.0/biblioteca.csproj.CoreCompileInputs.cache
+/Users/andressamachado/Desktop/learningC#/biblioteca/obj/Debug/net8.0/biblioteca.dll
+/Users/andressamachado/Desktop/learningC#/biblioteca/obj/Debug/net8.0/refint/biblioteca.dll
+/Users/andressamachado/Desktop/learningC#/biblioteca/obj/Debug/net8.0/biblioteca.pdb
+/Users/andressamachado/Desktop/learningC#/biblioteca/obj/Debug/net8.0/biblioteca.genruntimeconfig.cache
+/Users/andressamachado/Desktop/learningC#/biblioteca/obj/Debug/net8.0/ref/biblioteca.dll
